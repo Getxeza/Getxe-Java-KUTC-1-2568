@@ -32,6 +32,7 @@ public class MathBasic {
 
          int Byte = 10000000 ;
          int Mb ;
+         //
 
          Mb = Byte / 1048576;
          System.out.println(Mb);
